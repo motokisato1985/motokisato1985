@@ -15,8 +15,8 @@ AWS (EC2 / VPC / RDS / S3 / CloudFront / IAM)
 Terraform
 
 ### Container
-Docker
-ECR/ECS
+Docker  
+ECR / ECS
 
 ### CI/CD
 AWS CodePipeline  
