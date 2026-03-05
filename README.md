@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+クラウド・インフラエンジニアを目指して学習しています。
 
-<!--
-**motokisato1985/motokisato1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+・AWS / Terraform / CI/CD を学習中  
+・IaC や クラウドアーキテクチャに興味があります  
+・AWS CLF / SAA 取得
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud
+AWS (EC2 / VPC / RDS / S3 / CloudFront / IAM / etc)
+
+### Infrastructure as Code
+Terraform
+
+### CI/CD
+AWS CodePipeline  
+AWS CodeBuild  
+
+### OS
+Linux
+
+## 📫 Contact
+motokisato1985@gmail.com
