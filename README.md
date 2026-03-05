@@ -2,17 +2,21 @@
 クラウド・インフラエンジニアを目指して学習しています。
 
 ## 👨‍💻 About Me
-・AWS / Terraform / CI/CD を学習中  
+・AWS / Terraform / Container /CI/CD を学習中  
 ・IaC や クラウドアーキテクチャに興味があります  
 ・AWS CLF / SAA 取得
 
 ## 🛠 Skills
 
 ### Cloud
-AWS (EC2 / VPC / RDS / S3 / CloudFront / IAM / etc)
+AWS (EC2 / VPC / RDS / S3 / CloudFront / IAM)
 
 ### Infrastructure as Code
 Terraform
+
+### Container
+Docker
+ECR/ECS
 
 ### CI/CD
 AWS CodePipeline  
